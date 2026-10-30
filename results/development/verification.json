@@ -1,0 +1,9 @@
+{
+  "status": "PASS_INDEPENDENT_EXACT_RECONSTRUCTION",
+  "phase": "development",
+  "checks": 6395,
+  "state_speed_pairs": 102,
+  "authored_endpoint_cases": 408,
+  "source_network": false,
+  "no_analysis_imports": true
+}

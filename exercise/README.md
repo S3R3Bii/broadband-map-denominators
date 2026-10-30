@@ -1,0 +1,9 @@
+# Distinguish an arithmetic component from an infrastructure claim
+
+Implement a two-snapshot comparison of a fixed geography, source category, speed and map-unit definition. Return the reported share change, fraction-implied numerator and denominator components under the symmetric two-order convention, and whether the constant-baseline-implied-count counterfactual is feasible. Return unavailable for missing or mismatched identity, unordered dates, invalid units, nonpositive/noninteger denominators or shares outside 0–1. Preserve decimal strings and use exact arithmetic.
+
+The authored baseline has 100 units and share 0.9. In denominator-only-authored.json, 90 units and share 1 imply the same 90 served units: all 10 percentage points belong to the arithmetic denominator component. In numerator-only-authored.json, 100 units and share 1 produce the same 10-point reported improvement with a zero denominator component. These are invented examples, not FCC records, actual corrections, construction or causal effects. A numeric decomposition alone does not tell which real mechanism occurred.
+
+Check zero total units, an infeasible counterfactual, a changed residential/technology flag, exact cancellation when shares stay unchanged, and sensitivity clipping at 0/1. Explain why plus/minus 0.0001 sensitivity is not a sampling interval, source-error guarantee or native rounding bound. Compare your function with ../src/cli.py only after trying the exercise. The local guard cannot authenticate the data or reconstruct individual Fabric records.
+
+From the repository root run `python src/cli.py examples/baseline-authored.json examples/denominator-only-authored.json`, then substitute the numerator-only example. Both return 10-point share changes; their components differ. No network, account, license or key is needed for these authored examples. No deployment or measured user benefit is implied.
