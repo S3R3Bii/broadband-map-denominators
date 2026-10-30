@@ -1,0 +1,11 @@
+{
+  "status": "PASS_FIXED_DESCRIPTIVE_EXECUTION",
+  "phase": "later",
+  "state_speed_pairs": 204,
+  "authored_endpoint_cases": 816,
+  "source_network": false,
+  "no_fitting": true,
+  "source_projection_sha256": "8f357917ff947aa16a8a9a56fd7a0842b45e26206aeca146012c23b89a950918",
+  "perturbation_fraction": "1/10000",
+  "perturbation_meaning": "Authored sensitivity; not native rounding, sampling uncertainty or a source-error bound"
+}
