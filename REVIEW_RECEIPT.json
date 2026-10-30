@@ -1,0 +1,74 @@
+{
+  "timestamp_utc": "2026-10-30T20:02:45.050553+00:00",
+  "version": "Local complete candidate; full clone replay and exact remote release pending",
+  "status": "LOCAL_ARTIFACT_PASS_REPLAY_PENDING",
+  "grade": 3,
+  "criteria": {
+    "source_rights_identity": {
+      "state": "pass",
+      "grade": 4,
+      "evidence": "Four preserved public aggregate ZIPs;612 original numeric cells and204 fixed keys;2892 independent original conditions; native labels/precision/version caveats explicit; no individual Fabric records"
+    },
+    "design_and_arithmetic": {
+      "state": "pass",
+      "grade": 4,
+      "evidence": "32 committed dependencies before204 later comparisons;6395 development and12023 later conditions; all declared cases and infeasibility preserved; no fitting or causal attribution"
+    },
+    "implementation": {
+      "state": "pass",
+      "grade": 4,
+      "evidence": "42 finite source/accounting/guard fixtures and two authored CLI examples"
+    },
+    "figures_and_paper": {
+      "state": "pass",
+      "grade": 4,
+      "evidence": "Three inspected figures;126 values,312 SVG coordinates,9 hashes;90 source-bound displays; all six pages inspected;no final TeX layout/glyph warning"
+    },
+    "replay": {
+      "state": "unknown",
+      "evidence": "Current complete committed package replay pending"
+    },
+    "remote_release": {
+      "state": "unknown",
+      "evidence": "Candidate/main Linux, tested/merged tree and annotated tag pending"
+    }
+  },
+  "reviewed_files_sha256": {
+    "paper/main.tex": "252f6347bda2c59d2a32ff62dc9e4d685c8bd0b7e0787d6ffd138e0795a939cf",
+    "paper/manuscript.pdf": "d05f93fb5009c9c635758d22cbc4b66423ad7e1846eff7b6719e3aa2d9bdfeac",
+    "paper/images/infeasible_counterfactual.pdf": "a16335309b5fc622385d489479d9af33be4a6b4ca99c85be5fa3ad573a7ee45b",
+    "paper/images/offsetting_components.pdf": "224beabcc15ba0565e797cbdd3ee2299a86be409257d976dab7a1e9d8796fe92",
+    "paper/images/unit_denominator_changes.pdf": "f41aee2eee8b8a54275095a3d9947029699c66cbfe2f65096d26891eeba8a722"
+  },
+  "material_limits": [
+    "Native R-coded aggregate units, not subscriptions or individual locations",
+    "Fraction-implied served quantities are not exact observed integer served counts",
+    "Authored sensitivity is not a source-error bound or sampling interval",
+    "No source truth or causal attribution follows from exact accounting",
+    "Shared state/date/speed inputs are not independent trials",
+    "Retrieved historical summaries are not first-release vintages"
+  ],
+  "failures_retained": [
+    "Browser download-event timeout; intact file independently found and verified without repeat request",
+    "CPython3.10 tuple-subscript compatibility error before independent checks",
+    "PDF formal-publication qualifier wrapped after authored hyphen; normalization repaired checker, paper unchanged"
+  ],
+  "budget": {
+    "substantive_round": 2,
+    "maximum_rounds": 3,
+    "active_review_limit_minutes": 45,
+    "review_tool_call_limit": 60,
+    "exact_review_calls": "Not fully instrumented; grouped calls and actual results retained",
+    "active_review_time": "Not separately timed; source acquisition/execution is separate, wall time is not quota/billing or active-review time"
+  },
+  "usage": {
+    "source": "Codex get_usage_limits",
+    "observed_utc": "2026-10-30 19:57:12 UTC",
+    "window_minutes": 10080,
+    "used_percent": 46,
+    "remaining_percent": 54,
+    "reset_unix": 1793910839,
+    "secondary": "unavailable",
+    "shared_account_not_task_consumption": true
+  }
+}

@@ -1,0 +1,7 @@
+# Recorded environment
+
+Public-source acquisition used the normal unsigned-in FCC browser download interface, followed by native-file timing, SHA256 and ZIP CRC verification. Browser download-event notification failed for the first file even though it arrived intact; no duplicate source request was made. HTTP headers/status unavailable through this interface remain unavailable. Source data, filename revision and UI update dates are recorded separately.
+
+Primary CSV projection, exact accounting, independent source joins/arithmetic and fixtures used CPython 3.10.11. Independent original CSV parsing used CPython 3.12.14 and DuckDB 2.0.0. A syntax compatibility error in the independent result checker stopped before checks; its preserved version was corrected without changing an input or calculation. Numerical replay uses only the Python standard library; DuckDB is needed only for optional original-source reconciliation.
+
+Figures use Matplotlib 3.10.9. The paper was compiled with Tectonic, checked with pypdf 6.10.0 and all six pages were visually inspected from 95 dpi Poppler renders. Tectonic printed a Fontconfig configuration notice; the PDF compiled, rendered and had no final TeX layout/glyph warnings. A literal PDF-text check was repaired for a line wrap in the authored formal-publication qualifier, with the paper and all 90 displays unchanged. No fitted model, random search, GPU, paid service or source account is used.

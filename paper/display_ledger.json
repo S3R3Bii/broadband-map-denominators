@@ -1,0 +1,1049 @@
+[
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "All later transitions",
+      "speed": "speed_100_20",
+      "field": "gain_with_positive_denominator_component"
+    },
+    "text": "20",
+    "page": 0,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "All later transitions",
+      "speed": "speed_100_20",
+      "field": "reported_share_increase"
+    },
+    "text": "90",
+    "page": 0,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "All later transitions",
+      "speed": "speed_100_20",
+      "field": "pairs"
+    },
+    "text": "102",
+    "page": 0,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "All later transitions",
+      "speed": "speed_100_20",
+      "field": "mean_denominator_component_pp"
+    },
+    "text": "-0.399",
+    "page": 0,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "All later transitions",
+      "speed": "speed_100_20",
+      "field": "mean_share_change_pp"
+    },
+    "text": "0.750",
+    "page": 0,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "json",
+      "path": "data/input_receipt.json",
+      "field": "source_rows_scanned"
+    },
+    "text": "2,487,660",
+    "page": 1,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "json",
+      "path": "data/input_receipt.json",
+      "field": "rows"
+    },
+    "text": "204",
+    "page": 1,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "json",
+      "path": "data/input_receipt.json",
+      "field": "native_share_cells"
+    },
+    "text": "408",
+    "page": 1,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "json",
+      "path": "data/input_receipt.json",
+      "field": "geographies"
+    },
+    "text": "51",
+    "page": 1,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "json",
+      "path": "data/input_receipt.json",
+      "field": "data_dates"
+    },
+    "text": "4",
+    "page": 1,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "json",
+      "path": "results/development/execution.json",
+      "field": "state_speed_pairs"
+    },
+    "text": "102",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "json",
+      "path": "results/development/execution.json",
+      "field": "authored_endpoint_cases"
+    },
+    "text": "408",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "development",
+      "transition": "2023-12-31 to 2024-06-30",
+      "speed": "speed_100_20",
+      "field": "pairs"
+    },
+    "text": "51",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "development",
+      "transition": "2023-12-31 to 2024-06-30",
+      "speed": "speed_100_20",
+      "field": "mean_share_change_pp"
+    },
+    "text": "1.199",
+    "page": 2,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "development",
+      "transition": "2023-12-31 to 2024-06-30",
+      "speed": "speed_100_20",
+      "field": "mean_numerator_component_pp"
+    },
+    "text": "1.244",
+    "page": 2,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "development",
+      "transition": "2023-12-31 to 2024-06-30",
+      "speed": "speed_100_20",
+      "field": "mean_denominator_component_pp"
+    },
+    "text": "-0.045",
+    "page": 2,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "development",
+      "transition": "2023-12-31 to 2024-06-30",
+      "speed": "speed_100_20",
+      "field": "positive_denominator_component"
+    },
+    "text": "21",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "development",
+      "transition": "2023-12-31 to 2024-06-30",
+      "speed": "speed_25_3",
+      "field": "pairs"
+    },
+    "text": "51",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "development",
+      "transition": "2023-12-31 to 2024-06-30",
+      "speed": "speed_25_3",
+      "field": "mean_share_change_pp"
+    },
+    "text": "0.733",
+    "page": 2,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "development",
+      "transition": "2023-12-31 to 2024-06-30",
+      "speed": "speed_25_3",
+      "field": "mean_numerator_component_pp"
+    },
+    "text": "0.781",
+    "page": 2,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "development",
+      "transition": "2023-12-31 to 2024-06-30",
+      "speed": "speed_25_3",
+      "field": "mean_denominator_component_pp"
+    },
+    "text": "-0.047",
+    "page": 2,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "development",
+      "transition": "2023-12-31 to 2024-06-30",
+      "speed": "speed_25_3",
+      "field": "positive_denominator_component"
+    },
+    "text": "21",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "2024-06-30 to 2024-12-31",
+      "speed": "speed_100_20",
+      "field": "pairs"
+    },
+    "text": "51",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "2024-06-30 to 2024-12-31",
+      "speed": "speed_100_20",
+      "field": "mean_share_change_pp"
+    },
+    "text": "0.804",
+    "page": 3,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "2024-06-30 to 2024-12-31",
+      "speed": "speed_100_20",
+      "field": "mean_numerator_component_pp"
+    },
+    "text": "1.429",
+    "page": 3,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "2024-06-30 to 2024-12-31",
+      "speed": "speed_100_20",
+      "field": "mean_denominator_component_pp"
+    },
+    "text": "-0.624",
+    "page": 3,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "2024-06-30 to 2024-12-31",
+      "speed": "speed_100_20",
+      "field": "positive_denominator_component"
+    },
+    "text": "4",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "2024-06-30 to 2024-12-31",
+      "speed": "speed_25_3",
+      "field": "pairs"
+    },
+    "text": "51",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "2024-06-30 to 2024-12-31",
+      "speed": "speed_25_3",
+      "field": "mean_share_change_pp"
+    },
+    "text": "0.372",
+    "page": 3,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "2024-06-30 to 2024-12-31",
+      "speed": "speed_25_3",
+      "field": "mean_numerator_component_pp"
+    },
+    "text": "1.013",
+    "page": 3,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "2024-06-30 to 2024-12-31",
+      "speed": "speed_25_3",
+      "field": "mean_denominator_component_pp"
+    },
+    "text": "-0.641",
+    "page": 3,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "2024-06-30 to 2024-12-31",
+      "speed": "speed_25_3",
+      "field": "positive_denominator_component"
+    },
+    "text": "4",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "2024-12-31 to 2025-06-30",
+      "speed": "speed_100_20",
+      "field": "pairs"
+    },
+    "text": "51",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "2024-12-31 to 2025-06-30",
+      "speed": "speed_100_20",
+      "field": "mean_share_change_pp"
+    },
+    "text": "0.695",
+    "page": 3,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "2024-12-31 to 2025-06-30",
+      "speed": "speed_100_20",
+      "field": "mean_numerator_component_pp"
+    },
+    "text": "0.868",
+    "page": 3,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "2024-12-31 to 2025-06-30",
+      "speed": "speed_100_20",
+      "field": "mean_denominator_component_pp"
+    },
+    "text": "-0.173",
+    "page": 3,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "2024-12-31 to 2025-06-30",
+      "speed": "speed_100_20",
+      "field": "positive_denominator_component"
+    },
+    "text": "21",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "2024-12-31 to 2025-06-30",
+      "speed": "speed_25_3",
+      "field": "pairs"
+    },
+    "text": "51",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "2024-12-31 to 2025-06-30",
+      "speed": "speed_25_3",
+      "field": "mean_share_change_pp"
+    },
+    "text": "0.528",
+    "page": 3,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "2024-12-31 to 2025-06-30",
+      "speed": "speed_25_3",
+      "field": "mean_numerator_component_pp"
+    },
+    "text": "0.704",
+    "page": 3,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "2024-12-31 to 2025-06-30",
+      "speed": "speed_25_3",
+      "field": "mean_denominator_component_pp"
+    },
+    "text": "-0.177",
+    "page": 3,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "2024-12-31 to 2025-06-30",
+      "speed": "speed_25_3",
+      "field": "positive_denominator_component"
+    },
+    "text": "21",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "All later transitions",
+      "speed": "speed_100_20",
+      "field": "pairs"
+    },
+    "text": "102",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "All later transitions",
+      "speed": "speed_100_20",
+      "field": "mean_share_change_pp"
+    },
+    "text": "0.750",
+    "page": 3,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "All later transitions",
+      "speed": "speed_100_20",
+      "field": "mean_numerator_component_pp"
+    },
+    "text": "1.148",
+    "page": 3,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "All later transitions",
+      "speed": "speed_100_20",
+      "field": "mean_denominator_component_pp"
+    },
+    "text": "-0.399",
+    "page": 3,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "All later transitions",
+      "speed": "speed_100_20",
+      "field": "positive_denominator_component"
+    },
+    "text": "25",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "All later transitions",
+      "speed": "speed_25_3",
+      "field": "pairs"
+    },
+    "text": "102",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "All later transitions",
+      "speed": "speed_25_3",
+      "field": "mean_share_change_pp"
+    },
+    "text": "0.450",
+    "page": 3,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "All later transitions",
+      "speed": "speed_25_3",
+      "field": "mean_numerator_component_pp"
+    },
+    "text": "0.859",
+    "page": 3,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "All later transitions",
+      "speed": "speed_25_3",
+      "field": "mean_denominator_component_pp"
+    },
+    "text": "-0.409",
+    "page": 3,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "All later transitions",
+      "speed": "speed_25_3",
+      "field": "positive_denominator_component"
+    },
+    "text": "25",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "json",
+      "path": "results/later/execution.json",
+      "field": "state_speed_pairs"
+    },
+    "text": "204",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "json",
+      "path": "results/later/execution.json",
+      "field": "authored_endpoint_cases"
+    },
+    "text": "816",
+    "page": 4,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "json",
+      "path": "data/original_verification.json",
+      "field": "checks"
+    },
+    "text": "2,892",
+    "page": 5,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "json",
+      "path": "results/development/verification.json",
+      "field": "checks"
+    },
+    "text": "6,395",
+    "page": 5,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "json",
+      "path": "results/later/verification.json",
+      "field": "checks"
+    },
+    "text": "12,023",
+    "page": 5,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "freeze_count"
+    },
+    "text": "32",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "test_count"
+    },
+    "text": "42",
+    "page": 5,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "coverage",
+      "date": "2023-12-31",
+      "field": "eligible_state_keys"
+    },
+    "text": "51",
+    "page": 1,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "coverage",
+      "date": "2024-06-30",
+      "field": "eligible_state_keys"
+    },
+    "text": "51",
+    "page": 1,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "coverage",
+      "date": "2024-12-31",
+      "field": "eligible_state_keys"
+    },
+    "text": "51",
+    "page": 1,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "coverage",
+      "date": "2025-06-30",
+      "field": "eligible_state_keys"
+    },
+    "text": "51",
+    "page": 1,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "example",
+      "geography_id": "38",
+      "start": "2024-12-31",
+      "speed": "speed_100_20",
+      "field": "n0",
+      "multiplier": 1
+    },
+    "text": "477,239",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "example",
+      "geography_id": "38",
+      "start": "2024-12-31",
+      "speed": "speed_100_20",
+      "field": "n1",
+      "multiplier": 1
+    },
+    "text": "499,377",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "example",
+      "geography_id": "38",
+      "start": "2024-12-31",
+      "speed": "speed_100_20",
+      "field": "p0",
+      "multiplier": 100
+    },
+    "text": "99.587628",
+    "page": 3,
+    "format": ".6f"
+  },
+  {
+    "query": {
+      "kind": "example",
+      "geography_id": "38",
+      "start": "2024-12-31",
+      "speed": "speed_100_20",
+      "field": "p1",
+      "multiplier": 100
+    },
+    "text": "99.839200",
+    "page": 3,
+    "format": ".6f"
+  },
+  {
+    "query": {
+      "kind": "example",
+      "geography_id": "38",
+      "start": "2024-12-31",
+      "speed": "speed_100_20",
+      "field": "share_change_pp",
+      "multiplier": 1
+    },
+    "text": "0.251572",
+    "page": 3,
+    "format": ".6f"
+  },
+  {
+    "query": {
+      "kind": "example",
+      "geography_id": "38",
+      "start": "2024-12-31",
+      "speed": "speed_100_20",
+      "field": "numerator_component_pp",
+      "multiplier": 1
+    },
+    "text": "4.774646",
+    "page": 3,
+    "format": ".6f"
+  },
+  {
+    "query": {
+      "kind": "example",
+      "geography_id": "38",
+      "start": "2024-12-31",
+      "speed": "speed_100_20",
+      "field": "denominator_component_pp",
+      "multiplier": 1
+    },
+    "text": "-4.523075",
+    "page": 3,
+    "format": ".6f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "All later transitions",
+      "speed": "speed_100_20",
+      "field": "share_change_pp_sensitivity_positive"
+    },
+    "text": "89",
+    "page": 4,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "All later transitions",
+      "speed": "speed_100_20",
+      "field": "share_change_pp_sensitivity_negative"
+    },
+    "text": "11",
+    "page": 4,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "All later transitions",
+      "speed": "speed_100_20",
+      "field": "share_change_pp_sensitivity_ambiguous"
+    },
+    "text": "2",
+    "page": 4,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "All later transitions",
+      "speed": "speed_100_20",
+      "field": "numerator_component_pp_sensitivity_positive"
+    },
+    "text": "89",
+    "page": 4,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "All later transitions",
+      "speed": "speed_100_20",
+      "field": "numerator_component_pp_sensitivity_negative"
+    },
+    "text": "11",
+    "page": 4,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "All later transitions",
+      "speed": "speed_100_20",
+      "field": "numerator_component_pp_sensitivity_ambiguous"
+    },
+    "text": "2",
+    "page": 4,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "All later transitions",
+      "speed": "speed_100_20",
+      "field": "denominator_component_pp_sensitivity_positive"
+    },
+    "text": "25",
+    "page": 4,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "All later transitions",
+      "speed": "speed_100_20",
+      "field": "denominator_component_pp_sensitivity_negative"
+    },
+    "text": "77",
+    "page": 4,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "All later transitions",
+      "speed": "speed_100_20",
+      "field": "denominator_component_pp_sensitivity_ambiguous"
+    },
+    "text": "0",
+    "page": 4,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "All later transitions",
+      "speed": "speed_25_3",
+      "field": "share_change_pp_sensitivity_positive"
+    },
+    "text": "85",
+    "page": 4,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "All later transitions",
+      "speed": "speed_25_3",
+      "field": "share_change_pp_sensitivity_negative"
+    },
+    "text": "10",
+    "page": 4,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "All later transitions",
+      "speed": "speed_25_3",
+      "field": "share_change_pp_sensitivity_ambiguous"
+    },
+    "text": "7",
+    "page": 4,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "All later transitions",
+      "speed": "speed_25_3",
+      "field": "numerator_component_pp_sensitivity_positive"
+    },
+    "text": "87",
+    "page": 4,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "All later transitions",
+      "speed": "speed_25_3",
+      "field": "numerator_component_pp_sensitivity_negative"
+    },
+    "text": "12",
+    "page": 4,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "All later transitions",
+      "speed": "speed_25_3",
+      "field": "numerator_component_pp_sensitivity_ambiguous"
+    },
+    "text": "3",
+    "page": 4,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "All later transitions",
+      "speed": "speed_25_3",
+      "field": "denominator_component_pp_sensitivity_positive"
+    },
+    "text": "25",
+    "page": 4,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "All later transitions",
+      "speed": "speed_25_3",
+      "field": "denominator_component_pp_sensitivity_negative"
+    },
+    "text": "77",
+    "page": 4,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "All later transitions",
+      "speed": "speed_25_3",
+      "field": "denominator_component_pp_sensitivity_ambiguous"
+    },
+    "text": "0",
+    "page": 4,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "All later transitions",
+      "speed": "speed_100_20",
+      "field": "counterfactual_feasible"
+    },
+    "text": "101",
+    "page": 4,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "transition": "All later transitions",
+      "speed": "speed_100_20",
+      "field": "counterfactual_infeasible"
+    },
+    "text": "1",
+    "page": 4,
+    "format": ",d"
+  }
+]

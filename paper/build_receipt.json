@@ -1,0 +1,19 @@
+{
+  "status": "PASS_COMPILE_AND_SIX_PAGE_VISUAL_REVIEW",
+  "timestamp_utc": "2026-10-30T20:02:45.048553+00:00",
+  "compiler": "Tectonic",
+  "command": "tectonic --keep-logs --outdir paper paper/main.tex",
+  "pages": 6,
+  "render_tool": "Poppler pdftoppm",
+  "render_dpi": 95,
+  "visual_checks": "All six pages inspected; readable hierarchy, no clipping/overlap, honest axes and units, source/causal/precision qualifications visible",
+  "layout_warnings": [],
+  "private_log_sha256": "9aa43199f5827fc26a306c0f59aacfa2e73439920586aadeec2021714fe5b5a6",
+  "artifact_sha256": {
+    "paper/main.tex": "252f6347bda2c59d2a32ff62dc9e4d685c8bd0b7e0787d6ffd138e0795a939cf",
+    "paper/manuscript.pdf": "d05f93fb5009c9c635758d22cbc4b66423ad7e1846eff7b6719e3aa2d9bdfeac",
+    "paper/images/infeasible_counterfactual.pdf": "a16335309b5fc622385d489479d9af33be4a6b4ca99c85be5fa3ad573a7ee45b",
+    "paper/images/offsetting_components.pdf": "224beabcc15ba0565e797cbdd3ee2299a86be409257d976dab7a1e9d8796fe92",
+    "paper/images/unit_denominator_changes.pdf": "f41aee2eee8b8a54275095a3d9947029699c66cbfe2f65096d26891eeba8a722"
+  }
+}
