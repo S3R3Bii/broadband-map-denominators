@@ -1,0 +1,10 @@
+{
+  "status": "PASS_INDEPENDENT_NATIVE_CSV_SQL_RECONCILIATION",
+  "count_rows": 204,
+  "source_numeric_cells": 612,
+  "checks": 2892,
+  "parser": "DuckDB 2.0.0",
+  "original_hashes_unchanged": true,
+  "temporary_csv": "Only the bound source member; private verified workspace; removed after each reader",
+  "source_network": false
+}

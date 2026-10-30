@@ -1,7 +1,7 @@
 {
-  "timestamp_utc": "2026-10-30T19:48:49.044052+00:00",
+  "timestamp_utc": "2026-10-30T19:51:46.577337+00:00",
   "status": "PASS_BOUNDED_SCAN",
-  "files_checked": 13,
+  "files_checked": 22,
   "scope": "Exact staged Git index bytes; decompressed text; forbidden paths/extensions, high-confidence key and private machine path patterns; local Markdown links. Image/PDF contents require separate visual/source review. This is not universal secret detection.",
   "findings": [],
   "sha256": {
@@ -13,10 +13,19 @@
     "NATIVE_BINDING_NOTE.md": "19e7cf3806ab39062f834ac858b25309ade8692284133d8825e5cc9bef66bc80",
     "PROTOCOL.md": "5d689acc8a5da3eb193efa36e2f10d7571e366a16f3fb218379c8a7bbbe3aa7d",
     "README.md": "90580e14c2e7006277594d84494c478d23ba13863663e6d167ee8606a705f071",
+    "SOURCE_QUALIFICATION.md": "43b3f7053f609653649264cb9b5b4e30ef1fbfad885e55aab9bc79b52c07002e",
+    "data/coverage.csv": "f254b77d3aa9ad76937f8cb3b88e9c3f673ca7d05f061ec97dbd3f4e85478019",
     "data/expected_geographies.json": "d40e46a08b5eae5b654fd57d7cf501581a9f6e54ba63c1fc95134f3c2e637332",
-    "data/source_document_receipts.json": "335c1abb7005e7b23d84960a945e9d57b617c349edaae840fbda4292023d1042",
+    "data/input_receipt.json": "31ed264682f119e93b14cf022e85e095c933f0b27f5ea649fdff57b26862662c",
+    "data/key_ledger.csv": "85d53808dbc35eb8df131bc64583c95f9fa1af56ef66618baaaa2557da793058",
+    "data/original_verification.json": "4866a37a40bda67ea24bfa43ec7148a1f711fe229680fb17159f0b6100ff5dfd",
+    "data/source_document_receipts.json": "258b0d0af03801b8d796ae99ffbc220bb851f8418146f2c0e0ada146954cbe7a",
+    "data/source_receipts.json": "d3fb1effa7c5de7487cc3d6d7a71595906544a86bb6c52a96475260aac44f70e",
     "data/source_requests.json": "dc04de547f070e3ca470e380231b5673a27b3cca856d94cd5f21946dccc9460c",
-    "requirements.txt": "43f8fa1911dd6f4cf26a7f3e2329c3d3ddcb91ce1ecb9158e6774d21fcede9da"
+    "data/summary_rows.csv": "8f357917ff947aa16a8a9a56fd7a0842b45e26206aeca146012c23b89a950918",
+    "requirements.txt": "8e3073723a4fcffe980ba1b733cd17c4342e6302758e45aec7d29dbdcc77ae14",
+    "src/build_inputs.py": "b5241ffb94240b94161300e6b7917fb4a4d8749593563ed7bf8b3ddaeab4b267",
+    "src/verify_originals.py": "e18131d097fd52de517d7698e5543ad05a21915b0e0f08ff56c6251248b0858a"
   },
   "raw_source_members_excluded": true,
   "unapproved_manuscripts_excluded": true,

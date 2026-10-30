@@ -1,0 +1,114 @@
+[
+  {
+    "data_as_of": "2023-12-31",
+    "started_utc": "2026-10-30T19:44:05.778Z",
+    "completed_utc": "2026-10-30T19:45:08.089Z",
+    "page_url": "https://broadbandmap.fcc.gov/data-download/nationwide-data?version=jun2026&pubDataVer=dec2023",
+    "protocol_commit": "e452d6a719f3c4d60e0591c951174e9c8887067e",
+    "status": "PASS_ORIGINAL_ARCHIVE_CAPTURE",
+    "file": "bdc_us_fixed_broadband_summary_by_geography_D23_24dec2025.zip",
+    "sha256": "ede26f60e0e8e283682ceabe51e06a21e2d4bc2e53dc06bca1e968068d5aa783",
+    "bytes": 9222849,
+    "native_file_write_utc": "2026-10-30T19:44:07.139347+00:00",
+    "http_status": "unavailable via browser UI",
+    "http_headers": "unavailable via browser UI",
+    "visible_last_updated": "5/19/26",
+    "browser_download_event": "Timed out; an independently located complete archive was written inside this exact observed click interval; no repeated source request",
+    "zip_members": [
+      {
+        "name": "bdc_us_fixed_broadband_summary_by_geography_D23_24dec2025.csv",
+        "bytes": 90560556,
+        "compressed_bytes": 9222577,
+        "crc32": "546b1862"
+      }
+    ],
+    "zip_crc_check": "pass",
+    "recorded_utc": "2026-10-30T19:45:49.023760+00:00",
+    "source_member_sha256": "baaa4802557059d46e0e0432e404193bece7d8371118a0e3a371037a28c3b067",
+    "source_revision_date": "2025-12-24"
+  },
+  {
+    "data_as_of": "2024-06-30",
+    "started_utc": "2026-10-30T19:46:38.342Z",
+    "page_url": "https://broadbandmap.fcc.gov/data-download/nationwide-data?version=jun2026&pubDataVer=jun2024",
+    "protocol_commit": "e452d6a719f3c4d60e0591c951174e9c8887067e",
+    "completed_utc": "2026-10-30T19:47:03.976076+00:00",
+    "status": "PASS_ORIGINAL_ARCHIVE_CAPTURE",
+    "file": "bdc_us_fixed_broadband_summary_by_geography_J24_27jul2026.zip",
+    "sha256": "db77e52d6c1f01df852cfbed6a1f164b2daf2679a04e9eea6118092a19afeca4",
+    "bytes": 9347292,
+    "native_file_write_utc": "2026-10-30T19:46:39.471928+00:00",
+    "http_status": "unavailable via browser UI",
+    "http_headers": "unavailable via browser UI",
+    "visible_last_updated": "10/30/26",
+    "browser_download_event": "Normal button click; completed native file independently verified without relying on download-event notification",
+    "zip_members": [
+      {
+        "name": "bdc_us_fixed_broadband_summary_by_geography_J24_27jul2026.csv",
+        "bytes": 90707890,
+        "compressed_bytes": 9347020,
+        "crc32": "b7c0dee6"
+      }
+    ],
+    "zip_crc_check": "pass",
+    "recorded_utc": "2026-10-30T19:47:04.175118+00:00",
+    "source_member_sha256": "cda96325ae7005b429b6f98685bd044c54b3cdac930b46db19b5851f0b36bfcd",
+    "source_revision_date": "2026-07-27"
+  },
+  {
+    "data_as_of": "2024-12-31",
+    "started_utc": "2026-10-30T19:47:46.026Z",
+    "page_url": "https://broadbandmap.fcc.gov/data-download/nationwide-data?version=jun2026&pubDataVer=dec2024",
+    "protocol_commit": "e452d6a719f3c4d60e0591c951174e9c8887067e",
+    "completed_utc": "2026-10-30T19:48:13.516337+00:00",
+    "status": "PASS_ORIGINAL_ARCHIVE_CAPTURE",
+    "file": "bdc_us_fixed_broadband_summary_by_geography_D24_29jul2026.zip",
+    "sha256": "e0002e74b4bb596513d4892abaa080f8727b7f9e1ac106d55b7969e5c5aa6390",
+    "bytes": 9380651,
+    "native_file_write_utc": "2026-10-30T19:47:47.287247+00:00",
+    "http_status": "unavailable via browser UI",
+    "http_headers": "unavailable via browser UI",
+    "visible_last_updated": "7/29/26",
+    "browser_download_event": "Normal button click; completed native file independently verified without relying on download-event notification",
+    "zip_members": [
+      {
+        "name": "bdc_us_fixed_broadband_summary_by_geography_D24_29jul2026.csv",
+        "bytes": 90764082,
+        "compressed_bytes": 9380379,
+        "crc32": "6f177c8b"
+      }
+    ],
+    "zip_crc_check": "pass",
+    "recorded_utc": "2026-10-30T19:48:13.706711+00:00",
+    "source_member_sha256": "c9a4457255f16f6896ef30af5972c6b90b69fdcea5d936476964def54eb47f3f",
+    "source_revision_date": "2026-07-29"
+  },
+  {
+    "data_as_of": "2025-06-30",
+    "started_utc": "2026-10-30T19:49:02.873Z",
+    "page_url": "https://broadbandmap.fcc.gov/data-download/nationwide-data?version=jun2026&pubDataVer=jun2025",
+    "protocol_commit": "e452d6a719f3c4d60e0591c951174e9c8887067e",
+    "completed_utc": "2026-10-30T19:49:13.401181+00:00",
+    "status": "PASS_ORIGINAL_ARCHIVE_CAPTURE",
+    "file": "bdc_us_fixed_broadband_summary_by_geography_J25_01oct2026.zip",
+    "sha256": "0974a0602af4e0bbdbc76321b4ab3315bd6dfab907f60f54d0e58eb54707be3f",
+    "bytes": 9218617,
+    "native_file_write_utc": "2026-10-30T19:49:03.922617+00:00",
+    "http_status": "unavailable via browser UI",
+    "http_headers": "unavailable via browser UI",
+    "visible_last_updated": "10/1/26",
+    "browser_download_event": "Normal button click; completed native file independently verified without relying on download-event notification",
+    "zip_members": [
+      {
+        "name": "bdc_us_fixed_broadband_summary_by_geography_J25_01oct2026.csv",
+        "bytes": 90515100,
+        "compressed_bytes": 9218345,
+        "crc32": "a29da881"
+      }
+    ],
+    "zip_crc_check": "pass",
+    "recorded_utc": "2026-10-30T19:49:13.600155+00:00",
+    "source_member_sha256": "f02235f5f0c5d18e9802f821dbae7ac76e5fa408818a18a2c0e47c0cb0c04d6d",
+    "source_revision_date": "2026-10-01"
+  }
+]
