@@ -1,8 +1,8 @@
 {
-  "timestamp_utc": "2026-10-30T20:02:45.050553+00:00",
-  "version": "Local complete candidate; full clone replay and exact remote release pending",
-  "status": "LOCAL_ARTIFACT_PASS_REPLAY_PENDING",
-  "grade": 3,
+  "timestamp_utc": "2026-10-30T20:05:40.463850+00:00",
+  "version": "Local ready candidate; exact remote release proof tracked separately",
+  "status": "LOCAL_ACCEPTANCE_PASS",
+  "grade": 4,
   "criteria": {
     "source_rights_identity": {
       "state": "pass",
@@ -25,12 +25,9 @@
       "evidence": "Three inspected figures;126 values,312 SVG coordinates,9 hashes;90 source-bound displays; all six pages inspected;no final TeX layout/glyph warning"
     },
     "replay": {
-      "state": "unknown",
-      "evidence": "Current complete committed package replay pending"
-    },
-    "remote_release": {
-      "state": "unknown",
-      "evidence": "Candidate/main Linux, tested/merged tree and annotated tag pending"
+      "state": "pass",
+      "grade": 4,
+      "evidence": "CPython 3.10.11 and 3.12.14: identical 27,336 CSV fields and four JSON documents; 42 finite fixtures; 32 frozen dependencies and original bytes unchanged; full-history clone, no source network; two CLI examples"
     }
   },
   "reviewed_files_sha256": {
@@ -63,12 +60,26 @@
   },
   "usage": {
     "source": "Codex get_usage_limits",
-    "observed_utc": "2026-10-30 19:57:12 UTC",
+    "observed_utc": "2026-10-30 20:05:22 UTC",
     "window_minutes": 10080,
-    "used_percent": 46,
-    "remaining_percent": 54,
+    "used_percent": 47,
+    "remaining_percent": 53,
     "reset_unix": 1793910839,
     "secondary": "unavailable",
     "shared_account_not_task_consumption": true
+  },
+  "scope": "Local artifact acceptance; release completion additionally requires exact candidate/main CI, tested-tree identity and remote annotated tag proof",
+  "gates": {
+    "source_rights": "pass",
+    "source_identity": "pass",
+    "scientific_claims": "pass",
+    "privacy": "pass_bounded_canonical_scan",
+    "replay": "pass",
+    "figures_and_manuscript": "pass"
+  },
+  "release_evidence": {
+    "state": "PENDING_EXACT_REMOTE_CHECKS",
+    "pull_request": "https://github.com/S3R3Bii/broadband-map-denominators/pull/2",
+    "note": "This local receipt does not claim release completion. Final proof is recorded by the program register and pull request."
   }
 }
