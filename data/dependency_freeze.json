@@ -1,0 +1,138 @@
+{
+  "status": "FROZEN_BEFORE_LATER_SUMMARIES",
+  "timestamp_utc": "2026-10-30T19:55:05.992230+00:00",
+  "development_commit": "23e67ed4ecc5c7a558118b5461e93786cd55f051",
+  "files": [
+    {
+      "path": "PROTOCOL.md",
+      "sha256": "5d689acc8a5da3eb193efa36e2f10d7571e366a16f3fb218379c8a7bbbe3aa7d"
+    },
+    {
+      "path": "DATA_RIGHTS.md",
+      "sha256": "8d2b4b9d7aa35c90fa97ad237d37a01749f3cc948467bd6a339168bc7ee8082b"
+    },
+    {
+      "path": "NATIVE_BINDING_NOTE.md",
+      "sha256": "19e7cf3806ab39062f834ac858b25309ade8692284133d8825e5cc9bef66bc80"
+    },
+    {
+      "path": "SOURCE_QUALIFICATION.md",
+      "sha256": "43b3f7053f609653649264cb9b5b4e30ef1fbfad885e55aab9bc79b52c07002e"
+    },
+    {
+      "path": "ACQUISITION.md",
+      "sha256": "4d17f95fcfc9008b97716a5173fb1829baa8934392bd69546fb4acbcd6ff28ac"
+    },
+    {
+      "path": "DEVELOPMENT.md",
+      "sha256": "711c2726bd0c46aff2c8fb0e6585b6b7450ae73e98471639481b16c1d569784e"
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "8e3073723a4fcffe980ba1b733cd17c4342e6302758e45aec7d29dbdcc77ae14"
+    },
+    {
+      "path": "src/analyze.py",
+      "sha256": "cd4d8897e960c3e2487af541c8097c6a987faa4009d4f5612ab282f8ba7af716"
+    },
+    {
+      "path": "src/build_inputs.py",
+      "sha256": "b5241ffb94240b94161300e6b7917fb4a4d8749593563ed7bf8b3ddaeab4b267"
+    },
+    {
+      "path": "src/cli.py",
+      "sha256": "50391eb8932041023e5d1f7d7dd5af0227eb64eb90abe1697ae94fc0cfed8175"
+    },
+    {
+      "path": "src/verify_originals.py",
+      "sha256": "e18131d097fd52de517d7698e5543ad05a21915b0e0f08ff56c6251248b0858a"
+    },
+    {
+      "path": "src/verify_results.py",
+      "sha256": "6480abc239c8d906569cd8250ca23ead230d3c58088de3746b0ef724c79c2fa9"
+    },
+    {
+      "path": "tests/test_accounting.py",
+      "sha256": "cbec89fc3ff1dbd060fb061f7adf8184355fe901a4a801b4a57baee1591a1b92"
+    },
+    {
+      "path": "data/coverage.csv",
+      "sha256": "f254b77d3aa9ad76937f8cb3b88e9c3f673ca7d05f061ec97dbd3f4e85478019"
+    },
+    {
+      "path": "data/expected_geographies.json",
+      "sha256": "d40e46a08b5eae5b654fd57d7cf501581a9f6e54ba63c1fc95134f3c2e637332"
+    },
+    {
+      "path": "data/input_receipt.json",
+      "sha256": "31ed264682f119e93b14cf022e85e095c933f0b27f5ea649fdff57b26862662c"
+    },
+    {
+      "path": "data/key_ledger.csv",
+      "sha256": "85d53808dbc35eb8df131bc64583c95f9fa1af56ef66618baaaa2557da793058"
+    },
+    {
+      "path": "data/original_verification.json",
+      "sha256": "4866a37a40bda67ea24bfa43ec7148a1f711fe229680fb17159f0b6100ff5dfd"
+    },
+    {
+      "path": "data/source_document_receipts.json",
+      "sha256": "258b0d0af03801b8d796ae99ffbc220bb851f8418146f2c0e0ada146954cbe7a"
+    },
+    {
+      "path": "data/source_receipts.json",
+      "sha256": "d3fb1effa7c5de7487cc3d6d7a71595906544a86bb6c52a96475260aac44f70e"
+    },
+    {
+      "path": "data/source_requests.json",
+      "sha256": "dc04de547f070e3ca470e380231b5673a27b3cca856d94cd5f21946dccc9460c"
+    },
+    {
+      "path": "data/summary_rows.csv",
+      "sha256": "8f357917ff947aa16a8a9a56fd7a0842b45e26206aeca146012c23b89a950918"
+    },
+    {
+      "path": "results/development/bounds.csv",
+      "sha256": "f6d60fbb9af414720ddc75166a95110cd4b1525590c8be75d53cf87fec951e3b"
+    },
+    {
+      "path": "results/development/execution.json",
+      "sha256": "94067f9e50be6378a5d2ce05f3614410b536546a5a814c6f0b5f9afee78e8ae1"
+    },
+    {
+      "path": "results/development/pairs.csv",
+      "sha256": "6a88a20a9b4dc22f9a4d52571253a8ba6fc837d276493fd8c4e7d3271f78e31a"
+    },
+    {
+      "path": "results/development/sensitivity.csv",
+      "sha256": "b256fcab07c4a1eb431e9b3a7c9112411497406f955de18be7fa799cbe03b323"
+    },
+    {
+      "path": "results/development/summary.csv",
+      "sha256": "4ddd3bc22aa80b72d57ea1c7352664a876145087cd7cea83f96143cc40b68ddb"
+    },
+    {
+      "path": "results/development/verification.json",
+      "sha256": "fb11aab2fc42f39ac4fda8a54445ae1abe47a592069bed5e7ea1f63d200652e7"
+    },
+    {
+      "path": "examples/baseline-authored.json",
+      "sha256": "93784e284817311951c7364e0e5f21b8f1e46a505ec1f4277c2c787f3b430b21"
+    },
+    {
+      "path": "examples/denominator-only-authored.json",
+      "sha256": "4f249afc3fc08213020cd9b3d370bf94f7a3ed5b2a26a21c8033395968de13ff"
+    },
+    {
+      "path": "examples/numerator-only-authored.json",
+      "sha256": "fd9349da9e87e104bd444a4eb224dccf33e5c519851ff924a1b789dd2ba94984"
+    },
+    {
+      "path": "exercise/README.md",
+      "sha256": "f7e325124a170e7975bbd7b8dbe7268f5b875b6370a5955003186ababa171d98"
+    }
+  ],
+  "selection": "None; fixed symmetric accounting, counterfactual and four sensitivity endpoints; no fitting or threshold selection",
+  "later_scope": "June2024 to December2024 and December2024 to June2025,51 states/DC and two source speeds;204 pairs",
+  "source_exposure": "Full native source/key/eligibility checks and explicit label binding before comparisons;no later comparison summary before this manifest"
+}
