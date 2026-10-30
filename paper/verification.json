@@ -1,0 +1,9 @@
+{
+  "status": "PASS_SOURCE_BOUND_DISPLAYS_AND_PDF_TEXT",
+  "pages": 6,
+  "displays": 90,
+  "checks": 196,
+  "pdf_sha256": "d05f93fb5009c9c635758d22cbc4b66423ad7e1846eff7b6719e3aa2d9bdfeac",
+  "layout_warnings": [],
+  "visual_inspection": "Separate recorded page inspection required"
+}

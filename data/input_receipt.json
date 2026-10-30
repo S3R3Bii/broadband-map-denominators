@@ -1,0 +1,13 @@
+{
+  "status": "PASS_FIXED_204_ROW_COHORT",
+  "rows": 204,
+  "geographies": 51,
+  "data_dates": 4,
+  "native_share_cells": 408,
+  "missing_keys": 0,
+  "conflicting_keys": 0,
+  "source_comparisons_computed": false,
+  "source_rows_scanned": 2487660,
+  "projection_sha256": "8f357917ff947aa16a8a9a56fd7a0842b45e26206aeca146012c23b89a950918",
+  "original_zip_bytes": 37169409
+}

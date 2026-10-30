@@ -1,0 +1,12 @@
+{
+  "geography_id": "AUTHORED",
+  "geography_type": "State",
+  "area_data_type": "Total",
+  "biz_res": "R",
+  "technology": "Any Terrestrial",
+  "speed": "speed_100_20",
+  "unit": "map_units",
+  "data_as_of": "2024-06-30",
+  "total_units": "100",
+  "share": "1"
+}

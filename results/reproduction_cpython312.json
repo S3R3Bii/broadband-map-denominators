@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "python": "3.12.14",
+  "csv_fields_compared": 27336,
+  "json_documents_compared": 4,
+  "fixtures": 42,
+  "frozen_dependencies": 32,
+  "source_network": false,
+  "original_files_unchanged": true,
+  "full_history_clone": true,
+  "cli_examples": 2
+}

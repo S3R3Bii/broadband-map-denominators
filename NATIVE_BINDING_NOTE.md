@@ -1,0 +1,7 @@
+# Pre-comparison source binding
+
+The public specification calls the combined terrestrial category `All Terrestrial`. The captured December2023 CSV uses the literal label `Any Terrestrial`; its full native technology-label inventory was inspected before any comparison outcome. The intended category is the publisher's terrestrial aggregate, not its satellite-inclusive `Any Technology` aggregate or a sum of overlapping individual technology rows. Bind the literal `Any Terrestrial` source row consistently across all four files, retaining the public specification's different wording and all original labels. If that literal row, unit meaning or fixed state coverage is missing or incompatible in any file, stop before comparisons. No alternate category or favorable state is selected from outcomes.
+
+The specification's R code is retained literally. Units are aggregate map units, not subscriptions, independent people, adopting households or a reconstructed list of individual Fabric locations. The study will describe the native R-coded stratum and will not claim that its public metadata resolves every underlying residential/mixed-use classification rule.
+
+This is an explicit post-capture schema-label binding, allowed by the original protocol's disclosed header/meaning qualification stage. The initial protocol and request dates remain in Git history. No development or later comparison has run at this point. The source-label correction is not an untouched-schema preregistration. Source-specific facts, not a fabricated location-ID crosswalk, are retained.
