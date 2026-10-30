@@ -1,0 +1,7 @@
+# Preserve the public download and its actual evidence
+
+Use the fixed requests in data/source_requests.json and the normal unsigned-in FCC Data Download page. Select the named historical data date, wait for the selector to be enabled and its visible update text to settle, and click only the fixed-broadband summary for Other Geographies. Do not use a Fabric download, access token, account, license acceptance or third-party mirror.
+
+The first normal public click saved a complete archive, but the browser's download-event notification timed out. A narrowly filtered native-file check found the documented FCC filename written inside that exact click interval. The archive was copied once, hashed and CRC-checked without a second source request. Preserve that notification failure and distinguish it from a failed source transfer. Subsequent clicks use visible UI state plus independently verified complete files rather than relying on that notification.
+
+Native file-write time, selected source date, UI URL/update text, observed click/capture interval, exact filename, size, SHA256, member sizes/CRC and the pre-capture protocol commit are retained. HTTP status/headers are unavailable from this UI path and remain labeled unavailable. The source filename's revision date is distinct from its data date and the UI's update date; do not silently replace any of them with another. All original bytes and full source UI evidence stay private, with only sanitized capture facts eligible for publication.
