@@ -1,0 +1,38 @@
+[
+  {
+    "data_as_of": "2023-12-31",
+    "public_page": "https://broadbandmap.fcc.gov/data-download",
+    "selector_id": "dataVersion",
+    "observed_selector_label": " Dec 31, 2023 ",
+    "observed_selector_value": "5: 8033e241-2ab4-4ff6-812e-1efb049fe87f",
+    "button_name": "Download zipped Fixed Broadband Summary by Geography Type - Other Geographies file",
+    "acquisition": "Normal unsigned-in public browser UI; no guessed API request or license"
+  },
+  {
+    "data_as_of": "2024-06-30",
+    "public_page": "https://broadbandmap.fcc.gov/data-download",
+    "selector_id": "dataVersion",
+    "observed_selector_label": " Jun 30, 2024 ",
+    "observed_selector_value": "4: cc56c227-49dd-4b9a-ad74-8da5f3653787",
+    "button_name": "Download zipped Fixed Broadband Summary by Geography Type - Other Geographies file",
+    "acquisition": "Normal unsigned-in public browser UI; no guessed API request or license"
+  },
+  {
+    "data_as_of": "2024-12-31",
+    "public_page": "https://broadbandmap.fcc.gov/data-download",
+    "selector_id": "dataVersion",
+    "observed_selector_label": " Dec 31, 2024 ",
+    "observed_selector_value": "3: 057df9ac-5625-4e30-900f-3df00757d9fd",
+    "button_name": "Download zipped Fixed Broadband Summary by Geography Type - Other Geographies file",
+    "acquisition": "Normal unsigned-in public browser UI; no guessed API request or license"
+  },
+  {
+    "data_as_of": "2025-06-30",
+    "public_page": "https://broadbandmap.fcc.gov/data-download",
+    "selector_id": "dataVersion",
+    "observed_selector_label": " Jun 30, 2025 ",
+    "observed_selector_value": "2: 5f12a9e9-aed5-4bd8-8b7c-4c8710cd8ba0",
+    "button_name": "Download zipped Fixed Broadband Summary by Geography Type - Other Geographies file",
+    "acquisition": "Normal unsigned-in public browser UI; no guessed API request or license"
+  }
+]

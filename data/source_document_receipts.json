@@ -1,0 +1,13 @@
+[
+  {
+    "kind": "official_metadata_not_cohort",
+    "source_url": "https://us-fcc.app.box.com/v/bdc-data-downloads-output",
+    "linked_by": "https://help.bdc.fcc.gov/hc/en-us/articles/6789299021723-Key-Reference-Documents",
+    "retrieved_utc": "2026-10-30T19:39:50.255135+00:00",
+    "transport": "Normal browser public Download button; no account/login or agreement",
+    "bytes": 998743,
+    "sha256": "e96d6b6d55521e9844489c86f6bdd3e3d8c5797d7b54ea6dd8f7b0cdf8815c6e",
+    "http_headers": "unavailable via browser download",
+    "purpose": "Confirm native fields, definitions, restrictions and downloadable summary units before protocol/cohort capture"
+  }
+]
